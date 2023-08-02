@@ -29,11 +29,6 @@ img {
   display: block;
 }
 
-h1 {
-  font-weight: normal;
-  margin-bottom: 0.5em;
-}
-
 .box {
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
   border-top: 8px solid #5898b2;
